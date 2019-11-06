@@ -19,7 +19,7 @@
   "homepage": "https://github.com/UFWebApps/Fall2019_Bootcamp#readme",
   "dependencies": {
     "mongodb": "^2.2.36",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "save": "^2.4.0",
     "should": "^1.3.0"
   }
